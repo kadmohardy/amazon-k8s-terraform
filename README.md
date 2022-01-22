@@ -1,0 +1,1 @@
+# Boilerplate to create amazon k8s cluster
